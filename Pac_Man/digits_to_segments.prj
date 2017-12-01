@@ -1,0 +1,2 @@
+verilog work "convert_to_segments.v"
+verilog work "digits_to_segments.v"

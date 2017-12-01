@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/digits_to_segments.xst" -ofn "C:/CSM152A/Pac_Man/digits_to_segments.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-2 digits_to_segments.ngc digits_to_segments.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o digits_to_segments_map.ncd digits_to_segments.ngd digits_to_segments.pcf 
+par -w -intstyle ise -ol high -mt off digits_to_segments_map.ncd digits_to_segments.ncd digits_to_segments.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml digits_to_segments.twx digits_to_segments.ncd -o digits_to_segments.twr digits_to_segments.pcf 
+par -w -intstyle ise -ol high -mt off digits_to_segments_map.ncd digits_to_segments.ncd digits_to_segments.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml digits_to_segments.twx digits_to_segments.ncd -o digits_to_segments.twr digits_to_segments.pcf 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/digits_to_segments.xst" -ofn "C:/CSM152A/Pac_Man/digits_to_segments.syr" 

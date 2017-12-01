@@ -1,0 +1,29 @@
+Command line:
+   score_to_digits_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51648
+
+Sat Nov 25 16:17:00 2017
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 1003.59 Meg
+
+ Total Signals          : 25
+ Total Nets             : 64
+ Total Signal Drivers   : 12
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 19
+ Total Scalar Nets and Variables : 158
+Total Line Count : 27
+
+ Total Simulation Time: 1 sec
+
+ Current Memory Usage: 846.045 Meg
+
+Sat Nov 25 16:18:37 2017
+

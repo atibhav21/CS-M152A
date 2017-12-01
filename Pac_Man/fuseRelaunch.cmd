@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/CSM152A/Pac_Man/vga640x480_tb_isim_beh.exe" -prj "C:/CSM152A/Pac_Man/vga640x480_tb_beh.prj" "work.vga640x480_tb" "work.glbl" 

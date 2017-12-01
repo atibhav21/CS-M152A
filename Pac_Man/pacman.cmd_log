@@ -1,0 +1,88 @@
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/CSM152A/Pac_Man/pacman.xst" -ofn "C:/CSM152A/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys3.ucf -p xc6slx16-csg324-2 pacman.ngc pacman.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys3.ucf -p xc6slx16-csg324-2 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Pac_Man/pacman.xst" -ofn "C:/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Pac_Man/pacman.xst" -ofn "C:/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys3.ucf -p xc6slx16-csg324-2 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf Nexys3.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys3.ucf -p xc6slx16-csg324-2 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf Nexys3.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys3.ucf -p xc6slx16-csg324-2 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf Nexys3.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys3.ucf -p xc6slx16-csg324-2 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf Nexys3.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys3.ucf -p xc6slx16-csg324-2 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf Nexys3.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys3.ucf -p xc6slx16-csg324-2 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf Nexys3.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys3.ucf -p xc6slx16-csg324-2 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf Nexys3.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/152/Desktop/Pac_Man/pacman.xst" -ofn "C:/Users/152/Desktop/Pac_Man/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys3.ucf -p xc6slx16-csg324-2 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf Nexys3.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
