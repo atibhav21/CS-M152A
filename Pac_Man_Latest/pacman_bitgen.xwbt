@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\152\Documents\Pac_Man_Latest\pacman.ncd
+OUTFILE=C:\Users\152\Documents\Pac_Man_Latest\pacman.bit
+FAMILY=Spartan6
+PART=xc6slx16-2csg324
+WORKINGDIR=C:\Users\152\Documents\Pac_Man_Latest
+LICENSE=ISE
+USER_INFO=203015155_203016297_210565169_549
